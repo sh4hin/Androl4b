@@ -7,17 +7,22 @@ AndroL4b is an android security virtual machine based on ubuntu-Mate includes th
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
 
-Follow me [![alt text][1.1]][1]
+**Follow me** [![alt text][1.1]][1]
 
- 
+
+
+**MD5Sum** : 0c2346b1dbd769e3eb2069026a3c8efe
+
+
+**SHA1Sum** : 1119e5e225094191739281670e2aa6400a15f80f
 
 The tools directory contains tools and frameworks.
 Labs are in Lab directory.
 
 
-**username :** andro
+**Username :** andro
 
-**password :** androlab
+**Password :** androlab
  
 
 
