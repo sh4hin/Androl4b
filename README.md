@@ -1,8 +1,8 @@
-## **Androl4b**
+## **Androl4b V.2**
  
-AndroL4b is an android security virtual machine based on ubuntu-Mate includes the collection of latest framework, tutorials and labs from different security geeks and researcher for reverse engineering and malware analysis.
+AndroL4b is an android security virtual machine based on ubuntu-mate includes the collection of latest framework, tutorials and labs from different security geeks and researchers for reverse engineering and malware analysis.
 
-[**Download**](https://docs.google.com/uc?id=0Bz3CWMHV1rpGc0pYOEtyTXBRRHM&export=download)
+[**Download**](https://docs.google.com/uc?id=0B6UbtYzkoH90aGZuclRUczhfa0k&export=download)
  
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
@@ -11,22 +11,23 @@ AndroL4b is an android security virtual machine based on ubuntu-Mate includes th
 
 
 
-**MD5Sum** : 0c2346b1dbd769e3eb2069026a3c8efe
-
-
-**SHA1Sum** : 1119e5e225094191739281670e2aa6400a15f80f
+**MD5Sum** : c24449c9826771d8d129f485b4cf7eb6
 
 The tools directory contains tools and frameworks.
-Labs are in Lab directory.
-
+Labs documents and source codes are in labs directory.
 
 **Username :** andro
 
 **Password :** androlab
+
+**Emulator Pin:** 1234
+
  
 
 
-![Alt text](http://oi64.tinypic.com/a1jnd5.jpg)
+![Alt text](http://oi67.tinypic.com/oa6mtc.jpg)
+![Alt text](http://oi66.tinypic.com/juwq3p.jpg)
+![Alt text](http://oi68.tinypic.com/2n8srvl.jpg)
 
 
 
@@ -43,15 +44,8 @@ Labs are in Lab directory.
 [ByteCodeViewer](https://github.com/konloch/bytecode-viewer)
  Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)
  
-[Lobotomy](https://github.com/rotlogix/lobotomy) 
-  Android Reverse Engineering Framework & Toolkit (Static and Dynamic Analysis)
- 
- 
 [Mobile Security Framework (MobSF)](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 (Android/iOS) Automated Pentesting Framework (Just Static Analysis in this VM)
- 
-[DroidBox](https://github.com/pjlantz/droidbox)
-Dynamic Analysis of Android Applications
  
 [Dorzer](https://github.com/mwrlabs/drozer)
  Security Assessment Framework for Android Applications
@@ -71,9 +65,17 @@ Dynamic Analysis of Android Applications
 [Wireshark](https://www.wireshark.org)
  Network Protocol Analyzer
  
-[Smartphone Pentest Framework (SPF)](https://github.com/georgiaw/Smartphone-Pentest-Framework)
-
-[Metasploit](http://www.metasploit.com)
+[MARA](https://github.com/xtiankisutsa/MARA_Framework)
+  Mobile Application Reverse engineering and Analysis Framework
+  
+[FindBugs-IDEA](http://findbugs.sourceforge.net/)
+   Static byte code analysis to look for bugs in Java code 
+   
+[AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework)
+    Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications
+ 
+ [Metasploit](http://www.metasploit.com)
+   An exploit development framework
  
 ### Labs:
  
@@ -82,3 +84,12 @@ Dynamic Analysis of Android Applications
   
   [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
    Vulnerable Android Application
+   
+   [DroidBench](https://github.com/secure-software-engineering/DroidBench)
+   Open test suite for evaluating the effectiveness of taint-analysis tools specifically for Android apps
+   
+   [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+   
+   Sieve: A Password Manager App, showcasing some common Android vulnerabilities
+   
+   
