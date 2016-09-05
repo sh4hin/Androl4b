@@ -89,6 +89,7 @@ Labs documents and source codes are in labs directory.
    Open test suite for evaluating the effectiveness of taint-analysis tools specifically for Android apps
    
    [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+    A fully functional and self-contained training environment for educating developers and testers on Android security
    
    Sieve: A Password Manager App, showcasing some common Android vulnerabilities
    
