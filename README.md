@@ -73,6 +73,9 @@ Labs, documents and source codes are in the labs directory.
    
 [AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework)
     Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications
+    
+ [Qark](https://github.com/linkedin/qark)
+    Tool to look for several security related Android application vulnerabilities
  
  [Metasploit](http://www.metasploit.com)
    An exploit development framework
