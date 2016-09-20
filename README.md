@@ -47,7 +47,7 @@ Labs, documents and source codes are in the labs directory.
 [Mobile Security Framework (MobSF)](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 (Android/iOS) Automated Pentesting Framework (Just Static Analysis in this VM)
  
-[Dorzer](https://github.com/mwrlabs/drozer)
+[Drozer](https://github.com/mwrlabs/drozer)
  Security Assessment Framework for Android Applications
  
  [APKtool](https://github.com/iBotPeaches/Apktool)
