@@ -2,7 +2,10 @@
  
 AndroL4b is an android security virtual machine based on ubuntu-mate includes the collection of latest framework, tutorials and labs from different security geeks and researchers for reverse engineering and malware analysis.
 
-[**Download**](https://docs.google.com/uc?id=0B6UbtYzkoH90aGZuclRUczhfa0k&export=download)
+[**Google Drive**](https://docs.google.com/uc?id=0B6UbtYzkoH90aGZuclRUczhfa0k&export=download)
+
+
+[**Mega**](https://mega.nz/#!CpIgxIpA!WgxsC5LaD1MIa5TbXKN771LXWcghP7ewuPOU9Q4BgNs)
  
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
