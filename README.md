@@ -1,48 +1,51 @@
-## **Androl4b V.2**
+## **Androl4b**
  
 AndroL4b is an android security virtual machine based on ubuntu-mate includes the collection of latest framework, tutorials and labs from different security geeks and researchers for reverse engineering and malware analysis.
 
-[**Google Drive**](https://docs.google.com/uc?id=0B6UbtYzkoH90aGZuclRUczhfa0k&export=download)
+What's new in Androl4b v.3?
+-----------
+
+  * Tools are updated
+  * New tools and lab added
+  * Upgraded to Ubuntu mate 17.04
+  * Some cleanup
+  
 
 
-[**Mega**](https://mega.nz/#!CpIgxIpA!WgxsC5LaD1MIa5TbXKN771LXWcghP7ewuPOU9Q4BgNs)
+[**Mega Part 1**](https://mega.nz/#!Qu5QEbIZ!qWfwNI6owztdRN50lLryrg7w6MWGKx6m3omg7Bc8Tro)
+
+
+[**Mega Part 1**](https://mega.nz/#!gmRyGJga!VnMqtaPxtr6TjpwQdoFwbisooBEPEera_GyW54djhaY)
  
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
 
 **Follow me** [![alt text][1.1]][1]
 
-
-
-**MD5Sum** : c24449c9826771d8d129f485b4cf7eb6
-
-The tools directory contains tools and frameworks.
-Labs, documents and source codes are in the labs directory.
-
 **Username :** andro
 
-**Password :** androlab
+**Password :** andro
 
 **Emulator Pin:** 1234
 
  
 
 
-![Alt text](http://oi67.tinypic.com/oa6mtc.jpg)
-![Alt text](http://oi66.tinypic.com/juwq3p.jpg)
-![Alt text](http://oi68.tinypic.com/2n8srvl.jpg)
-
-
-
+![Alt text](http://i68.tinypic.com/5wl536.png)
+![Alt text](http://i63.tinypic.com/rjqio4.png)
+![Alt text](http://i63.tinypic.com/2nq5fdi.png)
+![Alt text](http://i63.tinypic.com/wcfxxz.png)
 
 
 
 
 ### **Tools**
  
-
-[APKStudio](https://github.com/vaibhavpandeyvpz/apkstudio)
-  Cross-platform Qt5 based IDE for reverse-engineering android applications
+ [Radare2](https://github.com/radare/radare2)
+ Unix-like reverse engineering framework and commandline tools
+ 
+ [Frida](https://www.frida.re)
+ Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
  
 [ByteCodeViewer](https://github.com/konloch/bytecode-viewer)
  Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)
@@ -58,10 +61,7 @@ Labs, documents and source codes are in the labs directory.
   
   [AndroidStudio](http://developer.android.com/tools/studio/index.html)
    IDE For Android Application Development
- 
-[ClassyShark](https://github.com/google/android-classyshark) 
-  Android executable browser
- 
+   
 [BurpSuite](https://portswigger.net/burp)
   Assessing Application Security
  
@@ -80,8 +80,6 @@ Labs, documents and source codes are in the labs directory.
  [Qark](https://github.com/linkedin/qark)
     Tool to look for several security related Android application vulnerabilities
  
- [Metasploit](http://www.metasploit.com)
-   An exploit development framework
  
 ### Labs:
  
@@ -91,8 +89,8 @@ Labs, documents and source codes are in the labs directory.
   [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
    Vulnerable Android Application
    
-   [DroidBench](https://github.com/secure-software-engineering/DroidBench)
-   Open test suite for evaluating the effectiveness of taint-analysis tools specifically for Android apps
+   [Android Security Sandbox](https://github.com/rafaeltoledo/android-security)
+   An app showcase of some techniques to improve Android app security
    
    [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
     A fully functional and self-contained training environment for educating developers and testers on Android security
