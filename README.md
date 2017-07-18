@@ -15,7 +15,7 @@ What's new in Androl4b v.3?
 [**Mega Part 1**](https://mega.nz/#!Qu5QEbIZ!qWfwNI6owztdRN50lLryrg7w6MWGKx6m3omg7Bc8Tro)
 
 
-[**Mega Part 1**](https://mega.nz/#!gmRyGJga!VnMqtaPxtr6TjpwQdoFwbisooBEPEera_GyW54djhaY)
+[**Mega Part 2**](https://mega.nz/#!gmRyGJga!VnMqtaPxtr6TjpwQdoFwbisooBEPEera_GyW54djhaY)
  
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
