@@ -16,6 +16,9 @@ What's new in Androl4b v.3?
 
 
 [**Mega Part 2**](https://mega.nz/#!gmRyGJga!VnMqtaPxtr6TjpwQdoFwbisooBEPEera_GyW54djhaY)
+
+
+[**Torrent**](raw/master/Androl4b.torrent)
  
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/s3cdev
