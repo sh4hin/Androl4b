@@ -34,15 +34,6 @@ What's new in Androl4b v.3?
 
 **Emulator Pin:** 1234
 
- 
-
-
-![Alt text](http://i68.tinypic.com/5wl536.png)
-![Alt text](http://i63.tinypic.com/rjqio4.png)
-![Alt text](http://i63.tinypic.com/2nq5fdi.png)
-![Alt text](http://i63.tinypic.com/wcfxxz.png)
-
-
 
 
 ### **Tools**
