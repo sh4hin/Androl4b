@@ -26,7 +26,6 @@ What's new in Androl4b v.3?
 
 **Follow me** [![alt text][1.1]][1]
 
-![Donate Bitcoin](https://png.icons8.com/bitcoin/color/50/000000) **Bitcoin**: 15KRy59nToE8oUggoVb6jUJQD5fWQGdSat
 
 **Username :** andro
 
